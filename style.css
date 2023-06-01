@@ -1,0 +1,125 @@
+body{
+    margin: 0 auto;
+    padding-top: 100px;
+    width: 30%;
+    background: #462730;
+    color: white;
+}
+
+input{
+    border-radius: 5px;
+    background: #D7D3D3;
+    color: black;
+    font-size: 15px;
+    padding: 0px 5px;
+}
+
+.cont{
+    background: #241722;
+    border-radius: 20px;
+    /* padding-top: 10px; */
+    padding-bottom: 30px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.89);
+}
+
+h1{
+    text-align: center;
+    padding-top: 10px;
+}
+
+section{
+    width: 100%;
+}
+
+.inputsec{
+    margin: 0 auto;
+    width: 95%;
+    display: flex;
+    /* justify-content: space-evenly; */
+    border-bottom: solid 2px;
+    padding-bottom: 10px;
+    justify-content: center;
+    margin: 0px 10px;
+}
+
+.taskBtn{
+    border-radius: 5px;
+    background: #462730;
+    color: white;
+    margin-left: 30px;
+}
+
+.taskInput{
+    height: 30px;
+}
+
+.taksec{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tskContainer{
+    width: 100%;
+}
+
+.tskContainer p{
+    text-align: center;
+    width: 100%;
+}
+
+.tasks{
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 95%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background: #462730;
+    border-radius: 5px;
+}
+
+.tskdpl{
+    height: 30px;
+    width: 200px;
+}
+
+.fa-sharp{
+    font-size: 25px;
+    text-align: center;
+    /* padding-top: 10px; */
+    justify-content: center;
+    padding: 5px;
+}
+.fa-circle-check{
+    font-size: 25px;
+    text-align: center;
+    /* padding-top: 10px; */
+    justify-content: center;
+    padding: 5px;
+}
+.fa-xmark{
+    font-size: 25px;
+    text-align: center;
+    /* padding-top: 10px; */
+    justify-content: center;
+    padding: 5px;
+}
+
+.fa-square-check{
+    font-size: 25px;
+    text-align: center;
+    /* padding-top: 10px; */
+    justify-content: center;
+    padding: 5px;
+}
+
+.fa-square{
+    font-size: 25px;
+    text-align: center;
+    /* padding-top: 10px; */
+    justify-content: center;
+    padding: 5px;
+}
